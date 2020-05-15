@@ -47,6 +47,11 @@ input[type='text']:focus{
   border:3px solid var(--prim-color); 
 }
 
+hr {
+    outline: 0;
+    border: solid var(--prim-color);
+}
+
 p{
   color: var(--sec-color) ;
   text-align: justify;
